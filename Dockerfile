@@ -1,4 +1,4 @@
-FROM ubuntu:wily
+FROM ubuntu:17.10
 
 MAINTAINER Bill Findeisen <bill@thejavashop.net>
 
